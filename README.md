@@ -15,7 +15,7 @@ Once the server is running, you can use the GET method to perform currency excha
 
 ### API Endpoint
 
-http://localhost:{your port number}/exchange?source={Source Currency}&target={Target Currency}&amount={Amount you want to excahnge}
+`http://localhost:{your port number}/exchange?source={Source Currency}&target={Target Currency}&amount={Amount you want to excahnge}`
 
 ### Rules
 
